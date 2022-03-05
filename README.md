@@ -25,3 +25,6 @@ SO THAT I can manage my time effectively
 * THEN the text for that event is saved in local storage
 * WHEN I refresh the page
 * THEN the saved events persist
+
+## Screenshot
+![workday](https://user-images.githubusercontent.com/96391351/156892218-cfda1968-a080-4043-8354-a7f32cebff59.png)
