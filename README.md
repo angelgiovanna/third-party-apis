@@ -4,7 +4,7 @@ For this Challenge, I was asked to create a simple calender application
 ## Links 
 Link to Deployed Application: https://angelgiovanna.github.io/third-party-apis/
 
-Link to GitHub Repository:
+Link to GitHub Repository: https://github.com/angelgiovanna/third-party-apis
 
 ## User Story
 AS AN employee with a busy schedule
